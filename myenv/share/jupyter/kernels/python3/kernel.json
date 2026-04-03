@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv/bin/python",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",

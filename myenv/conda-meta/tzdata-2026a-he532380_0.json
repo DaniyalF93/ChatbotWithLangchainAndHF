@@ -3,7 +3,7 @@
   "version": "2026a",
   "build": "he532380_0",
   "build_number": 0,
-  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
   "subdir": "noarch",
   "fn": "tzdata-2026a-he532380_0.conda",
   "md5": "b46d6837d6e1ceabdf40378de048c581",
@@ -11,14 +11,16 @@
   "sha256": "bab9c667cb352cdbbc895b4aa8c867221e2e98d5310d884e494540c0b5c1efce",
   "depends": [],
   "constrains": [],
+  "track_features": "",
+  "features": "",
   "noarch": "generic",
   "license": "CC-PDDC OR BSD-3-Clause",
   "package_type": "noarch_generic",
   "timestamp": 1772652196000,
   "size": 120000,
   "requested_spec": "None",
-  "package_tarball_full_path": "C:\\Users\\daniy\\miniconda3\\pkgs\\tzdata-2026a-he532380_0.conda",
-  "extracted_package_dir": "C:\\Users\\daniy\\miniconda3\\pkgs\\tzdata-2026a-he532380_0",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/tzdata-2026a-he532380_0.conda",
+  "extracted_package_dir": "/opt/miniconda3/pkgs/tzdata-2026a-he532380_0",
   "files": [
     "share/zoneinfo/Africa/Abidjan",
     "share/zoneinfo/Africa/Accra",
@@ -4875,7 +4877,7 @@
     ]
   },
   "link": {
-    "source": "C:\\Users\\daniy\\miniconda3\\pkgs\\tzdata-2026a-he532380_0",
+    "source": "/opt/miniconda3/pkgs/tzdata-2026a-he532380_0",
     "type": 1
   }
 }

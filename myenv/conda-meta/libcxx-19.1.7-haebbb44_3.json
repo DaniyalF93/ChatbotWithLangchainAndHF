@@ -18,11 +18,13 @@
     "llvm-tools 19.1.7",
     "llvm 19.1.7"
   ],
+  "track_features": "",
+  "features": "",
   "license": "Apache-2.0 WITH LLVM-exception",
   "timestamp": 1755029133000,
   "size": 339545,
   "requested_spec": "None",
-  "package_tarball_full_path": "/opt/miniconda3/pkgs/libcxx-19.1.7-haebbb44_3.conda",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/libcxx-19.1.7-haebbb44_3",
   "extracted_package_dir": "/opt/miniconda3/pkgs/libcxx-19.1.7-haebbb44_3",
   "files": [
     "lib/libc++.1.0.dylib",

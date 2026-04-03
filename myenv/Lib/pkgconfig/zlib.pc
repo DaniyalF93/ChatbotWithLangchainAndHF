@@ -1,0 +1,13 @@
+prefix=/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv
+exec_prefix=/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv
+libdir=/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv/lib
+sharedlibdir=/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv/lib
+includedir=/Users/daniyalfaheem/Desktop/Python Work/Langchain + huggingface/myenv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
