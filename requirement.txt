@@ -2,3 +2,7 @@ langchain
 openai
 dotenv
 python-dotenv
+huggingface_hub
+langchain-community 
+langchain-huggingface 
+transformers
